@@ -1,12 +1,17 @@
-# 🌟 Mapa de Habilidades & Plano de Monetização — Natalia Carlos Girao Rodrigues
+
+# Mapa de Habilidades — Natalia Carlos Girao Rodrigues
 
  
 
-> **Objetivo:** Construir renda **mensal e online** dedicando **4 horas por semana**, usando Power Apps, Power Automate, Design de Apresentações, Organização de Processos e Inovação.
+> **Objetivo:** Construir renda **mensal e online**, dedicando **4 horas/semana**, com foco em **Power Apps**, **Power Automate**, **Design de Apresentações**, **Organização de Processos** e **Inovação**.
 
  
 
-![Status](https://img.shields.io/badge/status-em_constru%C3%A7%C3%A3o-blue)
+![Capa](assets/cover_banner.png)
+
+ 
+
+![Status](https://img.shields.io/badge/status-em_constru%C3%A7%C3%A3o-0d6efd)
 
 ![Modelo](https://img.shields.io/badge/modelo-clube_de_produtividade-0d6efd)
 
@@ -20,23 +25,19 @@
 
 ## 📚 Índice
 
-- [Visão Geral](#-visão-geral)
+- #etapa-1--inventário-de-habilidades
 
-- [Etapa 1 — Inventário de Habilidades](#-etapa-1--inventário-de-habilidades)
+- [Etapa 2 — Cruzamento com Necessidades do Mercado](#etapa-2--cruzamento-com-necessidades-do-mercado)
 
-- [Etapa 2 — Cruzamento com o Mercado](#-etapa-2--cruzamento-com-o-mercado)
+- [Etapa 3 — Caminhos de Monetização](#etapa-3--caminhos-de-monetização)
 
-- [Etapa 3 — Caminhos de Monetização](#-etapa-3--caminhos-de-monetização)
+- [Entrega na Plataforma](#entrega-na-plataforma)
 
-- [Produto Principal: Clube de Produtividade & Automação](#-produto-principal-clube-de-produtividade--automação)
+- [Arquivos](#arquivos)
 
-- [Portfólio & Conteúdo](#-portfólio--conteúdo)
+- #contribuição
 
-- [Roadmap — 30/60/90 dias](#-roadmap--306090-dias)
-
-- [Como Contribuir](#-como-contribuir)
-
-- [Licença](#-licença)
+- #licença
 
  
 
@@ -44,9 +45,81 @@
 
  
 
-## 🧭 Visão Geral
+## Etapa 1 — Inventário de Habilidades
 
-Este repositório consolida meu **Mapa de Habilidades** e um plano prático para monetização recorrente por meio de **produtos digitais, assinatura mensal e mentorias**. O foco é **escala com qualidade**, privilegiando entregas enxutas e consistentes em **4h/semana**.
+ 
+
+### ✏️ Perguntas para te ajudar a listar (respostas com base na minha interação com a Copilot)
+
+ 
+
+**O que as pessoas costumam elogiar em você?**
+
+- Organização e atenção a detalhes.
+
+- Capacidade de estruturar ideias com clareza.
+
+- Gosto por aprender e aplicar rapidamente.
+
+- Criatividade para propor soluções (apps, automações, templates).
+
+- Proatividade para melhorar processos.
+
+ 
+
+**Em que tipo de tarefa você se sente confiante?**
+
+- Criar **apps no Power Apps** e **fluxos no Power Automate**.
+
+- Montar/aprimorar **apresentações visuais corporativas**.
+
+- Organizar processos e padronizar rotinas.
+
+- Criar **templates** e estruturas de produtividade.
+
+- Planejar e prototipar **projetos de inovação**.
+
+ 
+
+**Que tipo de ajuda você costuma oferecer para amigos ou familiares?**
+
+- Organizar informações/documentos e prazos.
+
+- Explicar tecnologia de forma simples (didática 8/10).
+
+- Ajudar a usar ferramentas Microsoft 365.
+
+- Criar/aprimorar **apresentações** e **planilhas**.
+
+- Automatizar pequenas rotinas para facilitar o dia a dia.
+
+ 
+
+**Quais atividades você faz com facilidade, enquanto outras pessoas têm dificuldade?**
+
+- Criar **ordem** onde existe desorganização.
+
+- Transformar ideias em **fluxos, apps e templates**.
+
+- Visualizar etapas e mapear **processos**.
+
+- Adaptar conteúdo técnico para formato **fácil e bonito**.
+
+- Construir **produtos digitais** com lógica e estética.
+
+ 
+
+**Que tipo de conteúdo você consome com frequência? (indica interesse/habilidade)**
+
+- **Produtividade**, organização e melhoria contínua.
+
+- **Power Apps** e **Power Automate** (tutoriais/práticas).
+
+- **Design** clean (paleta azul, cinza e branco).
+
+- **Inovação**, IA e soluções práticas no trabalho.
+
+- **Negócios/monetização** e criação de produtos digitais.
 
  
 
@@ -54,55 +127,49 @@ Este repositório consolida meu **Mapa de Habilidades** e um plano prático para
 
  
 
-## 🧠 Etapa 1 — Inventário de Habilidades
+## Etapa 2 — Cruzamento com Necessidades do Mercado
 
  
 
-### Habilidades Técnicas
+**Existe demanda por essas habilidades?**
 
-- Criação de aplicativos no **Power Apps**
+- Sim: **automação simples (Power Automate)** e **apps low‑code (Power Apps)** são muito buscados por PMEs.
 
-- Automação de processos com **Power Automate**
+- **Apresentações corporativas** e templates prontos têm demanda constante.
 
-- Organização e estruturação de bibliotecas no **SharePoint**
-
-- Criação de fluxos automáticos (e-mail, prazos, notificações)
-
-- **Design** de apresentações (paleta: azul, cinza e branco)
-
-- Construção de **formulários inteligentes**
-
-- Prototipação e ideação de **projetos inovadores**
-
-- Manipulação básica de dados em **Excel**
-
-- Mapeamento e documentação de **processos administrativos**
+- Cresce o interesse por **mentorias introdutórias** em Microsoft 365.
 
  
 
-### Habilidades Comportamentais
+**Quem se beneficia / pagaria por isso?**
 
-- Facilidade para **ensinar** (afinidade: 8/10)
+- **Pequenas empresas** e autônomos que querem padronização e produtividade.
 
-- Didática para traduzir o complexo em simples
+- Times internos que precisam de **apps rápidos** e notificações automáticas.
 
-- Organização e foco em melhoria contínua
-
-- Criatividade aplicada a problemas reais (ex.: **IDRONEFOOD**)
-
-- Comunicação objetiva e relacionamento com times
+- Iniciantes em Microsoft 365 que buscam **atalhos (templates)** e **orientação**.
 
  
 
-### Interesses Relevantes
+**Problemas que minhas habilidades resolvem:**
 
-- Inovação e tecnologia aplicada ao dia a dia
+- Falta de **organização** e processos inconsistentes.
 
-- IA + automação low-code/no-code
+- **Trabalho manual repetitivo**.
 
-- Organização e produtividade
+- Dificuldade em **acompanhar prazos** e centralizar documentos.
 
-- Criação de **templates** e produtos digitais práticos
+- **Apresentações** pouco profissionais.
+
+ 
+
+**Como oferecer (serviço/produto):**
+
+- **Assinatura mensal** (templates + mini‑aulas + ao vivo + comunidade).
+
+- **Templates** (apps, fluxos, slides, checklists).
+
+- **Mentorias** (30–60 min) e **projetos rápidos** sob demanda.
 
  
 
@@ -110,85 +177,67 @@ Este repositório consolida meu **Mapa de Habilidades** e um plano prático para
 
  
 
-## 🔎 Etapa 2 — Cruzamento com o Mercado
+## Etapa 3 — Caminhos de Monetização
 
  
 
-**Demanda atual:**
+**01 — Oferecer serviços em plataformas**
 
-- Automação com **Power Automate** e desenvolvimento **low-code**
+- **Power Automate**: alerta de vencimentos por e‑mail; organização automática no SharePoint; gerador de PDF + envio.
 
-- Organização de processos para PMEs
+- **Power Apps**: formulário inteligente (RH/solicitações); app simples de demandas.
 
-- **Apresentações profissionais** e kits executivos
+- **Design**: pacote de **20 slides corporativos** (azul/cinza/branco). 
 
-- Mentorias/introdutórios em Microsoft 365
-
-- **Templates** e produtos digitais prontos
+*Divulgação*: LinkedIn, 99Freelas, Workana, Fiverr.
 
  
 
-**Quem compra:**
+**02 — Criar conteúdo gratuito para atrair clientes**
 
-- Pequenas empresas e autônomos
+- Mini tutoriais (antes → depois) de automações.
 
-- Times internos que precisam de apps rápidos
-
-- Estudantes e iniciantes em Microsoft 365
-
-- Empreendedores que precisam de materiais executivos
+- **1 template gratuito/mês** como isca (lead magnet).
 
  
 
-**Problemas que resolvo:**
+**03 — Montar um portfólio simples**
 
-- Falta de organização e processos inconsistentes
+- Repositórios no **GitHub** com templates e instruções.
 
-- Tarefas manuais repetitivas
-
-- Dificuldade de acompanhar prazos
-
-- Necessidade de ferramentas simples de gestão
-
-- Apresentações pouco profissionais
+- Prints (antes/depois) e vídeos curtos de demo.
 
  
 
----
+**04 — Fazer parcerias**
+
+- PMEs locais e criadores de conteúdo de produtividade/negócios.
 
  
 
-## 💸 Etapa 3 — Caminhos de Monetização
+**05 — Dar aulas ou mentorias (online)**
+
+- **Organização de processos**, **Power Apps (primeiros passos)**, **Produtividade Microsoft 365**.
+
+- **Ticket sugerido:** R$ 70–120 / sessão (30–60 min).
 
  
 
-### 1) Assinatura Mensal (Produto Principal)
+### 🔁 Produto principal (renda recorrente) — Clube de Produtividade & Automação
 
-- **Clube de Produtividade & Automação**: templates + mini-aulas + aula ao vivo mensal + comunidade
+- Entregas mensais: **1 template/semana**, **1 mini‑aula/semana**, **1 aula ao vivo/mês**, **comunidade**.
 
-- **Ticket sugerido**: R$ 19–29/mês
+- **Preço inicial sugerido:** **R$ 19–29/mês**.
 
- 
-
-### 2) Templates e Produtos Digitais
-
-- **Power Apps**: formulários RH, solicitações internas, dashboards
-
-- **Power Automate**: alertas de vencimento, organização no SharePoint, gerador de PDF
-
-- **Design**: pacotes de 20 slides (reuniões, relatórios, pitch), paleta azul/cinza/branco
-
-- **Processos**: checklists, modelos de fluxo, planilhas inteligentes
-
-- **Preço**: R$ 12–49
+- Pensado para **4h/semana** de dedicação.
 
  
 
-### 3) Mentorias Online
+### 💵 Produtos digitais (preço unitário)
 
-- Organização de processos | Power Apps para iniciantes | Produtividade Microsoft 365
+- Templates de **Power Apps** e **Power Automate**, **slides** corporativos, **checklists/processos**.
 
-- **Ticket**: R$ 70–120/sessão (30–60 min)
+- **Faixa de preço:** **R$ 12–49**.
 
  
 
@@ -196,25 +245,15 @@ Este repositório consolida meu **Mapa de Habilidades** e um plano prático para
 
  
 
-## 🧩 Produto Principal: Clube de Produtividade & Automação
+## Entrega na Plataforma
 
-**Proposta de Valor:** Aprenda a automatizar tarefas e organizar rotinas com produtos prontos, aulas curtas e suporte comunitário — tudo em linguagem simples, voltado para iniciantes e PMEs.
+1. Gere o **PDF final** do seu mapa. 
 
- 
+2. Suba no **GitHub** neste repositório. 
 
-**Entrega mensal (4h/semana):**
+3. Configure a **Social preview** com `assets/social_preview.png`. 
 
-- 1 **template** novo/semana (Power Apps, Power Automate, slides ou processos)
-
-- 1 **aula curta** (5–10 min) gravada/semana
-
-- 1 **aula ao vivo** (1h) por mês
-
-- **Comunidade** para dúvidas rápidas e networking
-
- 
-
-**Resultados esperados:** mais produtividade, menos tarefas manuais, apresentações profissionais e processos claros.
+4. Compartilhe o link (DIO/LinkedIn/portfólio).
 
  
 
@@ -222,115 +261,16 @@ Este repositório consolida meu **Mapa de Habilidades** e um plano prático para
 
  
 
-## 🗂 Portfólio & Conteúdo
+## Arquivos
 
- 
+- `Mapa_de_Habilidades_Natalia.pdf` — mapa preenchido 
 
-### Portfólio
+- `assets/cover_banner.png` — banner do README 
 
-- Repositórios com **templates** (apps/fluxos/slides)
+- `assets/icon_natalia.png` — ícone do repositório 
 
-- Demos e capturas de tela (antes × depois)
-
-- README com instruções de uso
-
- 
-
-### Conteúdo de Aquisição (1x por semana)
-
-- Mini tutoriais curtos
-
-- Antes e depois de automações
-
-- 1 template gratuito de amostra
-
-- Dicas de produtividade e Microsoft 365
+- `assets/social_preview.png` — imagem social (Open Graph)
 
  
 
 ---
-
- 
-
-## 🛣 Roadmap — 30/60/90 dias
-
- 
-
-### 0–30 dias (Construção)
-
-- [ ] Criar 4 templates (1/semana)
-
-- [ ] Gravar 4 aulas curtas (5–10 min)
-
-- [ ] Página do Clube (Hotmart/Gumroad) + vídeo de apresentação
-
-- [ ] Abrir **lista de espera**
-
- 
-
-### 31–60 dias (Lançamento)
-
-- [ ] +2 templates
-
-- [ ] Aula ao vivo inaugural
-
-- [ ] Abertura de vendas (preço de lançamento)
-
-- [ ] Materiais de divulgação (posts e e-mails)
-
- 
-
-### 61–90 dias (Escala)
-
-- [ ] Anúncios leves (R$ 5/dia)
-
-- [ ] Parcerias com PMEs e criadores
-
-- [ ] +4 aulas gravadas
-
-- [ ] Versão **PRO** do clube (camada 2)
-
- 
-
----
-
- 
-
-## 🤝 Como Contribuir
-
-Sugestões, issues e PRs são bem-vindos! Se quiser propor um template, abrir uma dúvida ou sugerir melhorias no plano, use a aba **Issues**.
-
- 
-
----
-
- 
-
-## 📄 Licença
-
-Este projeto está licenciado sob a **MIT License**. Sinta-se à vontade para usar, adaptar e compartilhar com os devidos créditos.
-
- 
-
----
-
- 
-
-### ✉️ Contato
-
-- **Autora:** Natalia Carlos Girao Rodrigues 
-
-- **Foco:** Produtividade, Automação Microsoft 365, Low-code/No-code, Design de Apresentações
-
- 
-
- 
-
-De: Natália Carlos Girao Rodrigues <nataliacarlosgiraorodrigues@gmail.com>
-Enviada em: sábado, 28 de fevereiro de 2026 23:39
-Para: Natalia Carlos Girao Rodrigues <natalia.rodrigues@caixa.gov.br>
-Assunto:
-
- 
-
-maps habilidades
